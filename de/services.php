@@ -52,11 +52,11 @@ return array (
 'Case {n}'=>'Fall {n}',
 'Child Cases'=>'Nachgelagerte Fälle',
 'Contact does not exist'=>'Kontakt existiert nicht',
-'Web Form Case entered by {name}'=>'Neuer Service-Fall wurde eingegeben von {name}',
+'Web Form Case entered by {name}'=>'Neuer Service-Fall wurde erfasst von {name}',
 'Hello'=>'Hallo',
 'Web Form Case'=>'Service-Fall Formular',
 'Thank you for contacting our Technical Support '=>'Danke, dass Sie sich an unseren technischen Support wenden',
 'Import Services'=>'Import Services',
 'Export Services'=>'Export Services',
-'Case Name'=>'Fall Namen',
+'Case Name'=>'Fallname',
 );

@@ -1,14 +1,14 @@
 <?php
 return array (
 // Action Attributes
-'Action Description'=>'Aufgabe Beschreibung',
+'Action Description'=>'Aufgabenbeschreibung',
 'Due Date'=>'Fälligkeitsdatum',
 'Action Type'=>'Aktionstyp',
 'Reminder'=>'Erinnerung',
 'Complete Date'=>'Abschluss bis',
 'Date Completed'=>'Abschlussdatum',
 'All Day'=>'Ganztägig',
-'User\'s Group'=>'User Gruppe',
+'User\'s Group'=>'Benutzergruppe',
 
 // Colors
 'Blue'=>'Blau',

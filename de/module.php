@@ -1,7 +1,7 @@
 <?php
 return array (
 'Data fields'=>'Datenfelder',
-'Module Title'=>'Modul Titel',
+'Module Title'=>'Modultitel',
 'The name for your new module'=>'Name für das neue Modul',
 'Item Name'=>'Artikelname',
 '(Optional) What to call individual records, e.g. "Create new X"'=>'(Optional) Wie wollen Sie individuelle Datensätze benennen, z. B. "Erstelle neue X"',

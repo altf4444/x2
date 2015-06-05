@@ -122,7 +122,7 @@ return array (
 'Exporting <b>Contact</b> data...'=>'Exportieren <b>Kontaktdaten</b> ...',
 'records from <b>Contacts</b> successfully exported.'=>'Datensätze aus <b>Kontakte</b> erfolgreich exportiert.',
 'All Contact data successfully exported.'=>'Alle Kontaktdaten erfolgreich exportiert.',
-'Export Complete!'=>'Exportieren Complete!',
+'Export Complete!'=>'Export fertiggestellt!',
 // // 
 // // Subscribe
 'The information for {name} has changed.'=>'Die Information für {name} hat sich geändert.',

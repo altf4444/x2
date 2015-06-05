@@ -11,7 +11,7 @@ return array (
 
 // Main Menu
 'Projects'=>'Projekte',
-'Group Chat'=>'Gruppen-Chat',
+'Group Chat'=>'Gruppenchat',
 'Cases'=>'Service-Fälle',
 'Admin'=>'Admin',
 'Chat'=>'Chat',
@@ -134,7 +134,7 @@ return array (
 'Marketing Dashboard'=>'Dashboard Marketing',
 'You'=>'Sie',
 'Quick Create'=>'Schnellerstellung',
-'Create a Contact, Account, and Opportunity.'=>'Erstellen Sie einen Kontakt, Konto und Verkaufschance.',
+'Create a Contact, Account, and Opportunity.'=>'Erstellen Sie einen Kontakt, Firma und Verkaufschance.',
 '<b>Tip:</b> You can use the following comparison operators with filter values to fine-tune your search.'=>'<b> Tipp: </b> Sie können die folgenden Vergleichsoperatoren mit Filter-Werte verwenden, um Ihre Suche zu verfeinern.',
 'less than or equal to'=>'weniger als oder gleich',
 'greater than or equal to'=>'größer oder gleich',
@@ -162,7 +162,7 @@ return array (
 'Full'=>'Komplett',
 'Helpful Tips'=>'Hilfreiche Tipps',
 'Bug Reports'=>'Fehlerberichte',
-'Loading...'=>'Wird geladen ...',
+'Loading...'=>'Lade...',
 'Link Contact'=>'Verknüpfer Kontakt',
 'Link Account'=>'Veknüpfte Firma',
 'Link Opportunity'=>' Verknüpfte Verkaufschance',
