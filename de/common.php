@@ -83,7 +83,7 @@ return array (
 'History'=>'Historie',
 'Tags'=>'Schlagworte',
 'Link'=>'Link',
-'Model Name'=>'Model Name',
+'Model Name'=>'Modul Name',
 'Custom'=>'Selbst definiert',
 'Required'=>'Erforderlich',
 'Checkbox'=>'Checkbox',

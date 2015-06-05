@@ -11,5 +11,5 @@ return array (
 'Error'=>'Fehler',
 'Cannot delete; no parameters specified for finding a relationship record to delete.'=>'Kann nicht löschen; keine Parameter für die Suche nach einer Beziehung der zu löschenden Datensatz angegeben.',
 'No relationships deleted; none were found matching specfied parameters.'=>'Keine Beziehungen gelöscht; es wurden keine Treffer für die angegebenen Parameter gefunden.',
-'Couldn\'t perform {a} on model {m}'=>'Konnte {a} nicht gemäß Modul {m} durchführen.',
+'Couldn\'t perform {a} on model {m}'=>'Konnte {a} im Modul {m} nicht durchführen.',
 );
