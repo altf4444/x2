@@ -27,7 +27,7 @@ return array (
 'Action Marked Incomplete'=>'Aufgabe als unvollständig gekennzeichnet',
 'Campaign Email Clicked'=>'Kampagne E-Mail geklickt',
 'Campaign Email Opened'=>'Kampagne E-Mail geöffnet',
-'Unsubscribed from Campaign'=>'Von Kampagne abgelemdet',
+'Unsubscribed from Campaign'=>'Von Kampagne angemeldet',
 'Campaign Web Activity'=>'Kampagne Web Aktivität',
 'Newsletter Email Clicked'=>'Newsletter E-Mail geklickt',
 'Newsletter Email Opened'=>'Newsletter E-Mail geöffnet',
