@@ -73,7 +73,7 @@ return array (
 'Add to List'=>'Zur Liste hinzufügen',
 'Remove from List'=>'Aus Liste entfernen',
 'Reassign Record'=>'Datensatz neu zuweisen',
-'Add or Remove Tags'=>'Hinzufügen oder Hntfernen von Schlagworten',
+'Add or Remove Tags'=>'Hinzufügen oder Entfernen von Schlagworten',
 'Update Record'=>'Datensatz aktualisieren',
 'Wait'=>'Warten',
 
