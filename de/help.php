@@ -5,7 +5,7 @@ return array (
 'X2Engine Modules'=>'X2Engine Module',
 'Events'=>'Events',
 'Action Reminder'=>'Erinnerung an Aufgaben',
-'Calendar Event'=>'Event Kalendar',
+'Calendar Event'=>'Ereignis Kalendar',
 'Case Escalated'=>'Fall eskaliert',
 'Document Updated'=>'Dokument aktualisiert',
 'Email Opened'=>'E-Mail geöffnet',

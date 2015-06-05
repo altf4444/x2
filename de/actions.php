@@ -139,7 +139,7 @@ return array (
 'Created: '=>'Erstellt:',
 'Email Opened:'=>'E-Mail geöffnet:',
 'Contact has opened the following email:'=>'Kontakt hat die folgende E-Mail geöffnet:',
-'Update Event:'=>'Aktualisiere Veranstaltung:',
+'Update Event:'=>'Aktualisiere Ereignis:',
 'Action completed: {action}'=>'Aufgabe abgeschlossen: {action}',
 '{user} completed an action: {action}'=>'{user} schloss(en) eine Aufgabe ab: {action}',
 'Stage {n}: {stage} was completed for {record}'=>'Schritt {n}: {stage} wurde für abgeschlossen für {record}',

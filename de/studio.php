@@ -85,7 +85,7 @@ return array (
 'POST'=>'POST',
 'PUT'=>'PUT',
 'DELETE'=>'DELETE',
-'Creates an activity feed event.'=>'Erstellt einen Aktivitäts-Feed Eintrag.',
+'Creates an activity feed event.'=>'Erstellt ein Aktivitäts-Feed Ereignis.',
 'Owner of Record'=>'Datensatzeigentümer',
 '{Owner of Record}'=>'{Owner of Record}',
 'Send a template or custom email to the specified address.'=>'Senden Sie eine Vorlage oder benutzerdefinierte E-Mail an die angegebene Adresse.',

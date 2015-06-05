@@ -89,7 +89,7 @@ return array (
 'Comment on this post'=>'Kommentar zu diesem Beitrag',
 'View comments'=>'Kommentare anzeigen',
 'Make unimportant'=>'Als unwichtig markieren',
-'Broadcase Event'=>'Broadcase Event',
+'Broadcase Event'=>'Broadcase Ereignis',
 'Create Activity Feed Report Email'=>'Erstelle Aktivitäten-Feed Report per E-Mail',
 'This form will allow you to create a periodic email with information about events in the Activity Feed.'=>'Dieses Formular ermöglicht es Ihnen, eine regelmäßige E-Mail mit Informationen über Veranstaltungen im Aktivitäten-Feed zu erstellen.',
 'The filters you had checked on the previous page will be used to determine which content to give you information about.'=>'Die Filter, die Sie auf der vorherigen Seite gewählt haben werden verwendet, um zu bestimmen über welche Informationen Sie weitergeben wollen.',

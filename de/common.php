@@ -228,7 +228,7 @@ return array (
 'Roles'=>'Rollen',
 'account'=>'Firma',
 'Anyone'=>'Jeder',
-'Event'=>'Veranstaltung',
+'Event'=>'Ereignis',
 'Port'=>'Port',
 'Sender Name'=>'Absender Name',
 'Record'=>'Datensatz',
