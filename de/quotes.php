@@ -23,7 +23,7 @@ return array (
 'Delete Quote'=>'Angebot löschen',
 'Manage Quotes'=>'Angebote verwalten',
 'New Quote'=>'Neues Angebot',
-'Expires'=>'Verfällt',
+'Expires'=>'Gültig bis',
 'Invoice List'=>'Rechnung Liste',
 'Convert To Invoice'=>'In Rechnung überführen',
 'Invoice'=>'Rechnung',

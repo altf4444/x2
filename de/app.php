@@ -232,9 +232,9 @@ return array (
 
 // Timestamps
 'Just now'=>'Jetzt',
-'{n} minutes ago'=>'{n} Minuten',
-'{n} hours ago'=>'{n} Stunden',
-'{n} days ago'=>'{n} Tagen',
+'{n} minutes ago'=>'vor {n} Minuten',
+'{n} hours ago'=>'vor {n} Stunden',
+'{n} days ago'=>'vor {n} Tagen',
 
 // Errors
 'Error creating note!'=>'Fehler bei der Notiz-Erstellung!',
