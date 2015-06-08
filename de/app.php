@@ -179,7 +179,7 @@ return array (
 '{n} months'=>'{n} Monate',
 '{n} year'=>'{n} Jahr',
 'Unlimited'=>'Unbegrenzt',
-'Enable'=>'Ermöglichen',
+'Enable'=>'Aktivieren',
 'Disable'=>'Deaktivieren',
 'IP Address'=>'IP-Adresse',
 'Login Status'=>'Login-Status',
