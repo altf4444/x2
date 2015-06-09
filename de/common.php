@@ -17,7 +17,7 @@ return array (
 'Name'=>'Name',
 'Last Activity'=>'Letzte Aktivität',
 'Contacts'=>'Kontakte',
-'Address'=>'Adresse',
+'Address'=>'Str./Adresse',
 'Accounts'=>'Firmen',
 'Account Attributes'=>'Firmen Attribute',
 'Website'=>'Webseite',

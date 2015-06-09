@@ -12,7 +12,7 @@ return array (
 'Linkedin'=>'Linkedin',
 'Skype'=>'Skype',
 'Googleplus'=>'Googleplus',
-'Address 2'=>'Anschrift 2',
+'Address 2'=>'Adresse 2',
 'Lead Date'=>'Datum des Eintrags',
 'Confidence'=>'Vertrauen',
 'Close Date'=>'Tatsächliches Abschlussdatum',
