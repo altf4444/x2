@@ -5,7 +5,7 @@ return array (
 'Work'=>'Tel. Arbeit',
 'Cell'=>'Handy',
 'Work Phone'=>'Telefon Büro',
-'Phone 2'=>'Telefon 2',
+'Phone 2'=>'Telefon weitere',
 'IM'=>'IM',
 'Zip Code'=>'PLZ',
 'Twitter'=>'Twitter',
