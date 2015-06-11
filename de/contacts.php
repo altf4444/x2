@@ -138,7 +138,7 @@ return array (
 'Could not sign up'=>'Konnte nicht anmelden',
 'We\'re Sorry!'=>'Wir bitten um Entschuldigung.',
 'Thank You!'=>'Vielen Dank!',
-'Thank you for your interest!'=>'Vielen Dank für Ihr Interesse.',
+'Thank you for your interest!'=>'Ihre Nachricht ist angekommen.',
 'Someone will be in touch shortly.'=>'Wir werden uns in Kürze mit Ihnen in Verbindung setzen.',
 'Enter any additional information or questions regarding your interest here.'=>'Geben Sie zusätzliche Informationen oder Fragen gerne hier ein.',
 
