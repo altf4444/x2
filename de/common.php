@@ -102,7 +102,7 @@ return array (
 'Owner'=>'Besitzer',
 'E-Mail'=>'E-Mail',
 'Rating'=>'Bewertung',
-'Edit Permissions'=>'Berechtigungen bearbeiten',
+'Edit Permissions'=>'Schreibzugriff',
 'Group'=>'Gruppe',
 'Notification'=>'Benachrichtigung',
 'Currency'=>'Währung',
