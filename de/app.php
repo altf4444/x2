@@ -601,7 +601,7 @@ return array (
 'Add selected to list'=>'Zur Liste ausgewählt hinzufügen',
 'Remove selected from list'=>'Ausgewählt aus der Liste entfernen',
 'Tag selected'=>'Tag ausgewählt',
-'Update fields of selected'=>'Felder aktualisieren ausgewählter',
+'Update fields of selected'=>'ausgewählte Felder aktualisieren',
 'Delete selected'=>'Löschen ausgewählt',
 'Delete Selected Records'=>'Ausgewählte Datensätze löschen',
 'Tag Selected Records'=>'Tag Ausgewählte Datensätze',
