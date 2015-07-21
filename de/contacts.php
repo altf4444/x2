@@ -29,7 +29,7 @@ return array (
 'Unassigned'=>'nicht zugeordnet',
 'Dead'=>'Tot',
 'Rejected'=>'abgelehnt',
-'Duplicate Check'=>'Dublettenabgleich',
+'Duplicate Check'=>'Dublettencheck',
 'Timezone'=>'Zeitzone',
 'Web Tracking Key'=>'Web-Tracking Key',
 // // 
