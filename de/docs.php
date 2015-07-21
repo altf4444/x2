@@ -30,9 +30,9 @@ return array (
 'Delete Doc'=>'Doc löschen',
 'Export Doc'=>'Doc exportieren',
 'Edit Doc Permissions'=>'Doc-Berechtigungen bearbeiten ',
-'Create Email'=>'Neue E-Mail',
-'Create Doc'=>'Doc erstellen',
-'Create Document'=>'Dokument erstellen',
+'Create Email'=>'Neue E-Mail erstellen',
+'Create Doc'=>'Neues Doc erstellen',
+'Create Document'=>'neues Dokument erstellen',
 'Create Email Template'=>'Neue E-Mail-Vorlage erstellen',
 
 // // Misc Text
