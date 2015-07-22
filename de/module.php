@@ -3,8 +3,8 @@ return array (
 'Data fields'=>'Datenfelder',
 'Module Title'=>'Modultitel',
 'The name for your new module'=>'Name für das neue Modul',
-'Item Name'=>'Artikelname',
-'(Optional) What to call individual records, e.g. "Create new X"'=>'(Optional) Wie wollen Sie individuelle Datensätze benennen, z. B. "Erstelle neue X"',
+'Item Name'=>'Bezeichner für Elemente',
+'(Optional) What to call individual records, e.g. "Create new X"'=>'Wie wollen Sie individuelle Datensätze benennen, z. B. "Erstelle neuen X" (optional)?',
 'DB Table Name'=>'DB Tabellenname',
 'Optional (alphanumeric only, must start with a letter)'=>'Optional (nur alphanumerisch, muss mit einem Buchstaben beginnen)',
 
