@@ -134,7 +134,7 @@ return array (
 'Contact Attributes'=>'Kontakt Attribute',
 'Show All'=>'Alle anzeigen',
 'Docs'=>'Docs',
-'Are you sure you want to delete this item?'=>'Sind Sie sicher, dass Sie diesen Artikel löschen wollen?',
+'Are you sure you want to delete this item?'=>'Sind Sie sicher, dass Sie diesen Eintrag löschen wollen?',
 'Edit'=>'Bearbeiten',
 'Groups'=>'Gruppen',
 'Services'=>'Dienstleistungen',
