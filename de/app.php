@@ -44,7 +44,7 @@ return array (
 'Google Map'=>'Google Map',
 'Recently Viewed'=>'Kürzlich Angesehen',
 'Active Users'=>'Aktive Benutzer',
-'Tag Cloud'=>'Schlagwortwolke',
+'Tag Cloud'=>'Tag Cloud',
 'Just Me'=>'Nur Ich',
 'All Users'=>'Alle Benutzer',
 'Doc Viewer'=>'Dokumenten-Viewer',
