@@ -55,7 +55,7 @@ return array (
 'Data errors'=>'Datenfehler',
 'Batch completed, sending again in'=>'Batch-Vorgang abgeschlossen, sende wieder',
 'minute'=>'Minuten',
-'Email These Contacts'=>'Schicke E-Mail an diese Kontakten',
+'Email These Contacts'=>'Schicke E-Mail an diese Kontakte',
 'Email Entire List'=>'Schicke E-Mail an ganze Liste',
 'Invalid tag value'=>'Ungültiges Schlagwort',
 'Contacts for tag'=>'Ansprechpartner für Schlagwort',
