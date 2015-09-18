@@ -648,7 +648,7 @@ return array (
 'Please be absolutely sure before selecting this option. All of your changes to custom module files will be lost.'=>'',
 'As often as specified, X2Engine will check for updates and display a system notification message if a new version is available.'=>'',
 'Update Automatically'=>'Automatisch updaten',
-'If enabled, X2Engine will periodically check for updates and update automatically if a new version is available.'=>'Wenn aktiviert, scheckt X2 automatisch auf neue Updates und aktualisiert sich im Hintergrund selbstständig.',
+'If enabled, X2Engine will periodically check for updates and update automatically if a new version is available.'=>'Wenn aktiviert, prüft X2 automatisch auf neue Updates und aktualisiert sich selbstständig im Hintergrund.',
 'Specify an update schedule below. Note, X2Engine will be locked when the update is being applied, and so it is recommended to schedule updates at times when the application will encounter the least use. If any compatibility issues are detected, the update package will not be applied, but will be retrieved and unpacked for manual review and confirmation.'=>'',
 'Manual / Offline Update'=>'Manuell / Offline-Update',
 'Um ein manuelles Update durchzuführen, etwa wenn Sie X2Engine offline einsetzen oder falls irgend etwas beim automatischen Update nicht funktioniert, informieren Sie sich bitte im {wikilink}.'=>'',
