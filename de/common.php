@@ -16,7 +16,7 @@ return array (
 'Delete'=>'Löschen',
 'Name'=>'Name',
 'Last Activity'=>'Letzte Aktivität',
-'Contacts'=>'Kontakte',
+'Contacts'=>'Kontakt(e)',
 'Address'=>'Str./Adresse',
 'Accounts'=>'Firmen',
 'Account Attributes'=>'Firmen Attribute',
