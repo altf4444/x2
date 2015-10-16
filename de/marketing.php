@@ -133,7 +133,7 @@ return array (
 'If a contact visits several pages in a short time, you '=>'Wenn ein Kontakt mehrere Seiten im kurzen Abstand besucht, können Sie',
 'Turn it down all the way to receive notifications about '=>'Deaktivieren SIe ihn komplett, um Benachrictigungen zu erhalten über',
 'The contact you enter here will be used for variable replacement, i.e. for "John Doe" the token {firstName} will get replaced with "John"'=>'Der Kontakt, den Sie hier eingeben, wird für Variablenersetzung genutzt, z. B. wird für &quot;John Doe&quot; die Variable {firstName} durch &quot;John&quot; ersetzt',
-'If you want to keep your current HTML forms but still get web leads into X2, please see the wiki article located here: {link}'=>'Wenn Sie mit Ihre aktuellen HTML-Formulare behalten wollen, abder due Web-Leads trotzdem in X2 anlegen lassen wollen, lesen Sie folgenden Wiki-Artikel: {link}',
+'If you want to keep your current HTML forms but still get web leads into X2, please see the wiki article located here: {link}'=>'Wenn Sie mit Ihre aktuellen HTML-Formulare behalten wollen, aber die Web-Leads trotzdem in X2 anlegen lassen wollen, lesen Sie folgenden Wiki-Artikel: {link}',
 'Web Lead API'=>'Web-Lead API',
 'Custom HTML could not be removed.'=>'Eigener HTML-Code konnte nicht entfernt werden.',
 'Custom HTML could not be saved.'=>'Eigener HTML-Code konnte nicht gespeichert werden.',

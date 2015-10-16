@@ -35,7 +35,7 @@ return array (
 'View Profile'=>'Profil Anzeigen',
 'Update Profile'=>'Profil Aktualisieren',
 'Change Settings'=>'Einstellungen Ändern',
-'People'=>'Menschen',
+'People'=>'User',
 'Change Personal Settings'=>'Ändern Sie Ihre persönliche Einstellungen',
 'Change Password'=>'Kennwort ändern',
 'Reset Widgets'=>'Widgets zurücksetzen',
