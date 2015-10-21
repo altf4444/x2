@@ -272,7 +272,7 @@ return array (
 'Invoice Created'=>'Rechnung erstellt',
 'Invoice Issued'=>'Rechnungaversand ',
 'Invoice Payed'=>'Rechnung bezahlt',
-'People'=>'Menschen',
+'People'=>'User',
 'Add A User'=>'Hinzufügen eines Benutzers',
 'Add A Contact'=>'Kontakt hinzufügen',
 'Remove A User'=>'Entfernen eines Benutzers',
