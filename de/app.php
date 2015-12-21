@@ -919,7 +919,7 @@
   'Edit Layout' => 'Layout bearbeiten',
   'Journal View' => 'Blatt anzeigen',
   'List View' => 'Listenansicht',
-  'Show Widget' => 'Show Widget',
+  'Show Widget' => 'Zeige Widget',
   'Create Widget' => 'Widget erstellen',
   'Error parsing formula.' => 'Fehler beim Analysieren Formel.',
   '{recordType} created: {link}' => '{recordType} erstellt: {link}',
