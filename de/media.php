@@ -26,9 +26,9 @@
   'Google Drive:' => 'Google Drive:',
   'View Full Size' => 'Originalgröße anzeigen',
   'All {media}' => 'Alle {media}',
-  'Drop files here to upload' => 'Drop Dateien hier hochladen',
+  'Drop files here to upload' => 'Dateien hier ablegen zum Hochladen',
   'select files' => 'Dateien auswählen',
   'Image Width' => 'Bildbreite',
   'Image Height' => 'Bildhöhe',
-  'Delete Selected Image' => 'Löschen ausgewählte Bild',
+  'Delete Selected Image' => 'Lösche ausgewähltes Bild',
 );
