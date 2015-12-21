@@ -102,7 +102,7 @@
   'That {action} is not assigned to you.' => 'Das {action} wird nicht Ihnen zugeordnet.',
   'Complete action' => 'Komplette Aktion',
   'Uncomplete action' => 'Unvollständige Aktion',
-  'Edit action' => 'Aktion Bearbeiten',
+  'Edit action' => 'Aktion bearbeiten',
   'Delete action' => 'Aktion löschen',
   '{actions} assigned to' => '{actions} zugewiesen',
   'Complete and View {contact}' => 'Komplette und anzeigen {contact}',

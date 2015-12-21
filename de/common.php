@@ -397,7 +397,7 @@
   'Deals' => 'Angebote',
   'Confirm Password' => 'Passwort bestätigen',
   'Create {module}' => 'Erstellen Sie {module}',
-  'Edit {module}' => 'Bearbeiten {module}',
+  'Edit {module}' => 'Bearbeite {module}',
   'Share {module}' => 'Teilen {module}',
   'Delete {module}' => 'Löschen {module}',
   '{module}:' => '{module}',

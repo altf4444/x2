@@ -43,7 +43,7 @@
   'Start the {workflowName} {process} for the following record:' => 'Starten Sie den {workflowName} {process} für den folgenden Datensatz:',
   '{accounts}' => '{accounts}',
   'All {processes}' => 'Alle {processes}',
-  'Edit {process}' => 'Bearbeiten {process}',
+  'Edit {process}' => 'Bearbeite {process}',
   'Delete {process}' => 'Löschen {process}',
   'Invalid module' => 'Ungültige Modul',
   'All modules' => 'Alle Module',

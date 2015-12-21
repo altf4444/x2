@@ -62,7 +62,7 @@
   'Contact Event' => 'Kontakt Event-',
   'Contact Action' => 'Kontakt Aktions',
   'These users can view your {module}.' => 'Diese Benutzer können Sie die Ansicht {module}',
-  'These {users} can edit your {module}.' => 'Diese {users} können Ihre bearbeiten {module}',
+  'These {users} can edit your {module}.' => 'Diese {users} können Ihr Modul {module} bearbeiten.',
   'My {calendar} Permissions' => 'Meine {calendar} Berechtigungen',
   'Edit Calendar Event' => 'Kalender Ereignis bearbeiten',
   'Are you sure you want to delete this event?' => 'Sind Sie sicher, dass Sie dieses Event löschen?',

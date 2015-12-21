@@ -29,7 +29,7 @@
   '2 - Critical' => '2 - Kritisch',
   '3 - Moderate' => '3 - Normal',
   '4 - Minor' => '4 - Wenig',
-  'Edit Case' => 'Bearbeiten des Falls',
+  'Edit Case' => 'Bearbeite Fall',
   'Delete Case' => 'Fall löschen',
   'Case {n}' => 'Fall {n}',
   'Child Cases' => 'Nachgelagerte Fälle',

@@ -88,7 +88,7 @@
   'Test email sent!' => 'Test-E-Mail versendet!',
   'Apply to login screen?' => 'Übernehmen, um Bildschirm anmelden?',
   'Save Theme As' => 'Sparen Thema als',
-  'Create a new theme to edit' => 'Erstellen Sie ein neues Thema zu bearbeiten',
+  'Create a new theme to edit' => 'Erstellen Sie ein neues Theme, ums es zu bearbeiten',
   'Manage Email Reports' => 'Verwalten Email Reports',
   'Last Sent' => 'Zuletzt gesendeten',
   'Controls' => 'Kontrollen',

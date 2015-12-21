@@ -17,8 +17,8 @@
   'Unable to create custom module directory.' => 'Kann benutzerdefiniertes Modul-Verzeichnis nicht erstellen.',
   'Unable to create config file for custom module.' => 'Kann Konfigurationsdatei für benutzerdefiniertes Modul nicht erstellen.',
   'Unable to create table for custom module.' => 'Kann Tabelle für benutzerdefiniertes Modul nicht erstellen.',
-  'Import {X}' => 'Import {X}',
-  'Export {X}' => 'Export {X}',
+  'Import {X}' => 'Importiere {X}',
+  'Export {X}' => 'Exportiere {X}',
   '{modelName} Attributes' => '{modelName} Attribute',
-  'Edit {X}' => 'Bearbeiten {X}',
+  'Edit {X}' => 'Bearbeite {X}',
 );
