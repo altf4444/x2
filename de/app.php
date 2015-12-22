@@ -592,7 +592,7 @@
   '{n} second|{n} seconds' => '{n} Sekunde | {n} Sekunden',
   '{n} minute|{n} minutes' => '{n} minute | {n} Minuten',
   '{n} hour|{n} hours' => '{n} Stunden | {n} Stunden',
-  '{n} day|{n} days' => '{n} Tag | {n} Tagen',
+  '{n} day|{n} days' => '{n} Tag | {n} Tage',
   '{n} month|{n} months' => '{n} Monat | {n} Monate',
   '{X}' => '{X}',
   'Create a {contact}, {account}, and {opportunity}.' => 'Erstelle {contact}, {account}, und {opportunity}',

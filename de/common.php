@@ -117,7 +117,7 @@
   'Media' => 'Medien',
   'Marketing' => 'Marketing',
   'Columns' => 'Spalten',
-  '{n} days' => '{n} Tagen',
+  '{n} days' => '{n} Tage',
   'This Week' => 'Diese Woche',
   'This Month' => 'Dieser Monat',
   'Actions Completed' => 'Aufgaben abgeschlossen',
@@ -601,5 +601,5 @@
   'Invalid license key' => 'Ungültiger Lizenzschlüssel',
   'License Expiration Date' => 'Ablaufdatum der Lizenz',
   '(expired)' => '(abgelaufen)',
-  'License Max Users' => 'Lizenz maximale Benutzeranzahl',
+  'License Max Users' => 'Maximale Benutzer',
 );
