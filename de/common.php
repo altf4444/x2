@@ -586,7 +586,7 @@
   'Body' => 'Body',
   'Sticky' => 'Sticky',
   'Stage' => 'Stufe',
-  'Merge Records' => 'Druckdatensätze vereinigen',
+  'Merge Records' => 'Datensätze zusammenführen',
   'Time limit on batch actions' => 'Zeitlimit Batch-Aktionen',
   'Batch size for grid view mass actions' => 'Batchgröße für die Gridansicht-Massenaktionen',
   'External / Public Base URL' => 'Externe / Öffentliche Basis-URL',
