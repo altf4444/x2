@@ -1,5 +1,5 @@
 <?php return array (
-  'Create {group}' => 'Erstellen Sie {group}',
+  'Create {group}' => 'Erstelle {group}',
   '{group}:' => '{group}',
   '{users}:' => '{users}',
   '{group} List' => '{group} Liste',

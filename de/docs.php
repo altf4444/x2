@@ -13,7 +13,7 @@
   'Saved at' => 'Gespeichert am',
   'Document' => 'Dokument',
   'Leaving this field blank will preserve its default behavior.' => 'Lassen Sie dieses Feld leer, wird das Standard-Verhalten genutzt.',
-  'Create {quote} Template' => 'Erstellen Sie {quote} Template',
+  'Create {quote} Template' => 'Erstelle {quote} Template',
   '{account} Attributes' => '{account} Attribute',
   '{quote} Attributes' => '{quote} Attribute',
   'Create Folder' => 'Ordner anlegen',

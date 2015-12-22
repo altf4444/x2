@@ -9,7 +9,7 @@ return array(
 'Edit {lead}'=>'{lead} bearbeiten',
 'Delete {lead}'=>'{lead} löschen',
 'Convert to {contact}'=>'In {contact} umwandeln',
-'Convert to {opportunity}'=>'In {opportunity} umwandeln',
+'Convert to {opportunity}'=>'In Verkaufschance umwandeln',
 'Import {leads}'=>'Import {leads}',
 'Export {leads}'=>'Export {leads}',
 );

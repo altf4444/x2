@@ -1,7 +1,7 @@
 <?php return array (
   'Locked' => 'Gesperrt',
   'Expiration Date' => 'Ablaufdatum',
-  'Opportunity Stage' => 'Gelegenheit Schritt',
+  'Opportunity Stage' => 'Verkaufschance Schritt',
   'Subtotal' => 'Zwischensumme',
   'Quote Template' => 'Angebotsvorlage',
   'Existing Products' => 'bestehende Produkte',
@@ -26,7 +26,7 @@
   'Add Line Item' => 'Position hinzufügen',
   'Add Adjustment' => 'Rabatt hinzufügen',
   'Presented' => 'Präsentiert',
-  'Item Table' => 'Artikel Tabelle',
+  'Item Table' => 'Datensatz Tabelle',
   'Duplicate' => 'Duplizieren',
   'invoice' => 'Rechnung',
   'Quote {id} does not exist. It may have been deleted.' => 'Angebot {id} existiert nicht. Es wurde möglicherweise gelöscht.',
