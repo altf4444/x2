@@ -261,7 +261,7 @@
   'Delete Workflow' => 'Workflow löschen',
   'Del' => 'Del',
   'Calendars' => 'Kalender',
-  'Confidence' => 'Vertrauen',
+  'Confidence' => 'Abschluss Wahrschein- lichkeit',
   'Deal Status' => 'Deal-Status',
   'Template' => 'Template',
   'minutes' => 'Minuten',
