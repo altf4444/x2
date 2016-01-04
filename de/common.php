@@ -236,7 +236,7 @@
   'Daily' => 'Täglich',
   'Weekly' => 'Weekly',
   'Monthly' => 'Monatlich',
-  'Count' => 'Zählen',
+  'Count' => 'Anzahl',
   'Timestamp' => 'Timestamp',
   'Record ID' => 'Record ID',
   'Process Import Data' => 'Prozessdaten importieren',
