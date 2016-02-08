@@ -116,7 +116,7 @@
   'Notification Users' => 'Mitteilung Benutzer',
   'Notification Time' => 'Benachrichtigungszeit',
   'Calendar ID' => 'Kalender ID',
-  '<b>Reminder!</b> The following action is due: {action}' => '<b>! Reminder</b> Die folgende Aktion durch: {action}',
+  '<b>Reminder!</b> The following action is due: {action}' => '<b>Erinnerung!</b> Die folgende Aktion ist fällig: {action}',
   'Event Subtype' => 'Veranstaltungsuntertyp',
   'Event Status' => 'Event Status',
 );
