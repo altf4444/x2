@@ -68,7 +68,7 @@
   'Turn it down all the way to receive notifications about every page hit.' => 'Schalten es ganz aus, um Benachrichtigungen über alle Seiten-Besuche zu erhalten.',
   'Contact has opened the email sent on ' => 'Kontakt hat die E-Mail geöffnet, gesendet an',
   'Header Code' => 'Header-Code',
-  'A new web lead has been assigned to you: ' => 'Eine neuer Web-Lead wurde Ihnen zugewiesen:',
+  'A new web lead has been assigned to you: ' => 'Eine neuer Web-Lead wurde Ihnen zugewiesen: ',
   'If you want to keep your current HTML forms but still get web leads into X2, please see the wiki article located here: {link}' => 'Wenn Sie mit Ihre aktuellen HTML-Formulare behalten wollen, abder due Web-Leads trotzdem in X2 anlegen lassen wollen, lesen Sie folgenden Wiki-Artikel: {link}',
   'Web Lead API' => 'Web-Lead API',
   'Custom HTML could not be removed.' => 'Eigener HTML-Code konnte nicht entfernt werden.',
